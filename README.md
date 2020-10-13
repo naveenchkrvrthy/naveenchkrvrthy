@@ -1,5 +1,5 @@
 [![](https://github.com/naveenchkrvrthy/naveenchkrvrthy/blob/main/readme_header.png)](https://naveenchkrvrthy.com/)
-### <div align="center"> HELLO, WORLD! I'M NAVEEN.👋 </div>
+#### <div align="center"> HELLO, WORLD! I'M NAVEEN.👋 </div>
 <!--
 **naveenchkrvrthy/naveenchkrvrthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
