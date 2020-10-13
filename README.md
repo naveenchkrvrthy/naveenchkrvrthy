@@ -1,3 +1,4 @@
+[![](https://github.com/naveenchkrvrthy/naveenchkrvrthy/blob/main/readme_header.png)](https://naveenchkrvrthy.com/)
 ### Hi there 👋
 
 <!--
@@ -14,4 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Header](https://raw.githubusercontent.com/naveenchkrvrthy/naveenchkrvrthy/readme_header.png "Header")](https://naveenchkrvrthy.com/)
